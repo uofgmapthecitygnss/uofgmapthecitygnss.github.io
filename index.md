@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/uofgmapthecitygnss/uofgmapthecitygnss.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+We take your privacy seriously. To better protect your privacy we provide this temporary privacy policy notice explaining the way your personal information is collected and used.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Collection of Routine Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+When you use the app to make a 'recording' in order to contribute data to our research project, the app will collect the following data:
+- Your Precise location
+- Information about the GNSS signals that your phone receives
 
-```markdown
-Syntax highlighted code block
+Should you wish to create an account, we will also store your email address.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Advertisement and Other Third Parties
 
-1. Numbered
-2. List
+We do not sell or share your data with any third parties.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Security
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uofgmapthecitygnss/uofgmapthecitygnss.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Changes To This Privacy Policy
 
-### Support or Contact
+This Privacy Policy is effective as of 2022-04-22 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our app.
+
+
+## Contact Information
+
+For any questions or concerns regarding the privacy policy, please send us an email at glasgow dot gnssdata dot collection dot app@gmail dot com
